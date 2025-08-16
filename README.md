@@ -19,7 +19,7 @@ Now kept as a **legacy project** to demonstrate my early experience in both **fr
 - jQuery
 
 ## Screenshots
-*[Screenshot](https://jengree-dev.github.io/battleship-game/prj-screenshot.png)*
+https://jengree-dev.github.io/battleship-game/prj-screenshot.png
 
 ## Notes
 - Built in 2013 as part of a **test assignment** → resulted in a job offer.
@@ -28,7 +28,7 @@ Now kept as a **legacy project** to demonstrate my early experience in both **fr
 - Could be modernized with vanilla JS or frameworks like Vue/React.
 
 ## Live Demo
-[Battleship game](https://jengree-dev.github.io/battleship-game/)
+[Try Battleship web game](https://jengree-dev.github.io/battleship-game/)
 
 ---
 
