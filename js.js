@@ -205,7 +205,7 @@ function check_ifship_done(arr,x,y,who) { // checking whether the ship was hitte
 	}}	
 	
 	if (done) { // if destroyed
-		showlog(who_is(who)+ " destroys the enemy's ship ('+t+'-decked)",'user')
+		showlog(who_is(who)+ " destroys the enemy's ship ("+t+"-decked)",'user')
 		
 		for (var i=x2+1; i<x1; i++) { 
 			for (var j=y2+1; j<y1; j++) {
@@ -407,6 +407,7 @@ function comp_acts() {
 }
 
 /* next turn end */
+
 
 
 
