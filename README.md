@@ -34,7 +34,7 @@ Now kept as a **legacy project** to demonstrate my early experience in both **fr
 
 ## Project Structure
 - `index.html` – game layout
-- `css.css` – board and UI styles
+- `css.css` – project styles
 - `js.js` – game logic and AI difficulty
 - `jquery-1.9.1.min.js` - jquery to run offline
 
