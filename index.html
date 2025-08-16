@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<html>
+
+<head>
+	<title>Тестовое задание «Морской бой» (Е. Григорьева)</title>
+
+	<script src="jquery-1.9.1.min.js" type="text/javascript" language="javascript"></script>
+	<script src="js.js"></script>
+	<link href="css.css" rel="stylesheet" />
+</head>
+
+<body>
+
+<h1>Морской бой</h1>
+
+<div id="hi">
+	
+	<p>Привет, дружище!</p>
+	<p>Как тебя зовут? =) &#160; <input id="user_name" value=""></p>
+	
+	<p>Выбери себе противника: </p>
+	<div class="oppo">
+		<input type="radio" name="ifhard" value="0" checked="checked">Буратино (легко)
+	</div><div class="oppo">
+		<input type="radio" name="ifhard" value="1">Гарри Поттер (средне)
+	</div><div class="oppo">
+		<input type="radio" name="ifhard" value="2">Шерлок Холмс (тяжко)
+	</div><div class="oppo">
+		<input type="radio" name="ifhard" value="3">Оракул Дворца пророков (невозможно)
+	</div>	
+	
+	<p></p>
+	<div class="oppo">
+	<input id="btn_go" type="button" value="Отдать швартовы!" onclick="comeon()"/>
+	</div>
+	
+</div>
+
+<div id="game">
+
+	<div id="status">Сейчас ходит: <span id="whosturn"></span></div>
+	<div id="names">
+		<div id="dv_un" class="matrix"></div>
+		<div id="shifter">&#160;</div>
+		<div id="dv_cn" class="matrix"></div>
+	</div>
+	<div id="user" class="matrix"></div>
+	<div id="comp" class="matrix"></div>
+	<div id="actions"></div>
+	<div id="left">
+		<div id="users_left" class="matrix">dd</div>
+		<div id="shifter">&#160;</div>
+		<div id="comps_left" class="matrix">ffff</div>
+	</div>
+	<div id="onceagain">
+		<input type="button" value="Еще разок сначала" onclick="location.reload()">
+	</div>
+	
+	<div id="user_map" class="matrix"></div>	
+	
+</div>
+
+</body>
+</html>
