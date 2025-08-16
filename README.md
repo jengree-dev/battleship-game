@@ -19,7 +19,7 @@ Now kept as a **legacy project** to demonstrate my early experience in both **fr
 - jQuery
 
 ## Screenshots
-*(Add screenshots or GIFs here once you upload the game — use `![screenshot](screenshot.png)`)*
+*[Screenshot](https://jengree-dev.github.io/battleship-game/prj-screenshot.png)*
 
 ## Notes
 - Built in 2013 as part of a **test assignment** → resulted in a job offer.
@@ -28,7 +28,7 @@ Now kept as a **legacy project** to demonstrate my early experience in both **fr
 - Could be modernized with vanilla JS or frameworks like Vue/React.
 
 ## Live Demo
-*(Optional: if you publish via GitHub Pages, add a link here)*
+[Battleship game](https://jengree-dev.github.io/battleship-game/)
 
 ---
 
