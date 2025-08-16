@@ -21,7 +21,7 @@ var allships_comp = new Array(0,0,0,0);
 // creating tables...
 var Matrix_comp = createMatrix(Rank_,0); // matrix of comp ships
 var Matrix_user = createMatrix(Rank_,0); // the matrix of the user's ships
-var Matrix_user_map = createMatrix(Rank_,") // the matrix that the computer will build based on the results of its own attacks
+var Matrix_user_map = createMatrix(Rank_,'') // the matrix that the computer will build based on the results of its own attacks
 
 
 function set_cn(vl) { // the names depending on the complexity
@@ -407,4 +407,5 @@ function comp_acts() {
 }
 
 /* next turn end */
+
 
