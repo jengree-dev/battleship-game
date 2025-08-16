@@ -19,7 +19,7 @@ Now kept as a **legacy project** to demonstrate my early experience in both **fr
 - jQuery
 
 ## Screenshots
-![Project Screenshot](https://jengree-dev.github.io/battleship-game/prj-screenshot.png)
+[View Screenshot](https://jengree-dev.github.io/battleship-game/prj-screenshot.png)
 
 ## Notes
 - Built in 2013 as part of a **test assignment** → resulted in a job offer.
