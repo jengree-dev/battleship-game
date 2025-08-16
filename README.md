@@ -41,5 +41,5 @@ Now kept as a **legacy project** to demonstrate my early experience in both **fr
 ---
 
 ## Author
-Created by *jengree* 
+Created by *jengree*,
 *as a test assignment, now archived as a legacy project.*
